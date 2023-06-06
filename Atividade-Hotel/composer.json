@@ -1,0 +1,24 @@
+{
+    "name": "denny/hotel",
+    "description": "Tarefa Hotel",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Hotel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "denny Junio",
+            "email": "dennyjuniocostacoimbra@gmail.com"
+        },
+        {
+            "name": "Heloisa Squarezi",
+            "email": "heloisasguarezi@gmail.com"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.15"
+    }
+}
